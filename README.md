@@ -30,6 +30,6 @@ In conclusion, this in-depth analysis of ER visit data presents invaluable insig
 Building on these findings, I recommend that the hospital focuses on optimizing resources and staffing to accommodate the significant patient inflow within the age range of 19 to 65. Additionally, maintaining the high patient satisfaction score should remain a priority, with continuous efforts to further enhance the patient experience. Lastly, departments with higher referral numbers should implement efficient workflows to ensure timely and specialized care delivery, contributing to improved patient outcomes.
 
 # Dashboard
-![dashboard]()
+![dashboard](https://github.com/atamgbo/ERPatientVisit/blob/main/Screenshot%202023-09-07%20at%201.14.55%20PM.png)
 
 [View interactive dashboard](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/EmergencyRoomVisitsDashboard_16860700000520/Dashboard1)
