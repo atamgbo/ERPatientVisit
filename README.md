@@ -38,9 +38,9 @@ This analysis provides valuable insights into ER patient demographics, experienc
 
 # Recommendations:
 
-Optimize resources for the 19-65 age group.
-Prioritize maintaining high patient satisfaction.
-Improve workflow efficiency in departments with high referrals to enhance patient outcomes.
+- Optimize resources for the 19-65 age group.
+- Prioritize maintaining high patient satisfaction.
+- Improve workflow efficiency in departments with high referrals to enhance patient outcomes.
 
 # Dashboard
 ![dashboard](https://github.com/atamgbo/ERPatientVisit/blob/main/Screenshot%202023-09-07%20at%201.14.55%20PM.png)
